@@ -3,7 +3,7 @@ Prophet's IG loader V1.2
 
 Thank you for downloading *Prophet's IG loader V1.2 * 
 
-If you dont know what ur doing just run *instal.bat*
+If you dont know what ur doing just run install.bat
 
 requires:
 - Python 
